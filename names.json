@@ -1,6 +1,8 @@
-o set clipboard=unnamed >> ~/.vimrc
+
 {
 	"person1":"Alex",
 	"person2":"Alina",
 	"person3":"Victor"
-} 
+	"person4":"Anna"
+	"preson5":"Dimasik"
+}
